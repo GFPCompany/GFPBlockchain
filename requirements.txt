@@ -1,0 +1,5 @@
+PyMySQL~=1.1.0
+base58~=2.1.1
+flask~=3.0.0
+colorama~=0.4.5
+ecdsa~=0.18.0
